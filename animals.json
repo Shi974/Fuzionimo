@@ -1,0 +1,170 @@
+[
+  {
+    "name" : "Alligator",
+    "img" : "https://img.icons8.com/stickers/512/alligator.png",
+    "type" : "reptile",
+    "rarity" : 0.1,
+    "gender" : "M"
+  },
+  {
+    "name" : "Baleine",
+    "img" : "https://img.icons8.com/stickers/512/whale.png",
+    "type" : "mammifère",
+    "rarity" : 0.5,
+    "gender" : "F"
+  },
+  {
+    "name" : "Canard",
+    "img" : "https://img.icons8.com/stickers/512/duck.png",
+    "type" : "oiseau",
+    "rarity" : 0.5,
+    "gender" : "M"
+  },
+  {
+    "name" : "Carpe koï",
+    "img" : "https://img.icons8.com/stickers/512/koi-fish.png",
+    "type" : "poisson",
+    "rarity" : 0.1,
+    "gender" : "F"
+  },
+  {
+    "name" : "Cochon",
+    "img" : "https://img.icons8.com/stickers/512/pig.png",
+    "type" : "mammifère",
+    "rarity" : 0.5,
+    "gender" : "M"
+  },
+  {
+    "name" : "Corgi",
+    "img" : "https://img.icons8.com/stickers/512/corgi.png",
+    "type" : "mammifère",
+    "rarity" : 0.1,
+    "gender" : "M"
+  },
+  {
+    "name" : "Crabe",
+    "img" : "https://img.icons8.com/stickers/512/crab.png",
+    "type" : "crustacé",
+    "rarity" : 0.5,
+    "gender" : "M"
+  },
+  {
+    "name" : "Dauphin",
+    "img" : "https://img.icons8.com/stickers/512/dolphin.png",
+    "type" : "mammifère",
+    "rarity" : 0.35,
+    "gender" : "M"
+  },
+  {
+    "name" : "Escargot",
+    "img" : "https://img.icons8.com/stickers/512/snail.png",
+    "type" : "gastéropode",
+    "rarity" : 0.5,
+    "gender" : "M"
+  },
+  {
+    "name" : "Girafe",
+    "img" : "https://img.icons8.com/stickers/512/giraffe.png",
+    "type" : "mammifère",
+    "rarity" : 0.35,
+    "gender" : "F"
+  },
+  {
+    "name" : "Gorille",
+    "img" : "https://img.icons8.com/stickers/512/gorilla.png",
+    "type" : "mammifère",
+    "rarity" : 0.5,
+    "gender" : "M"
+  },
+  {
+    "name" : "Hippocampe",
+    "img" : "https://img.icons8.com/stickers/512/seahorse.png",
+    "type" : "poisson",
+    "rarity" : 0.05,
+    "gender" : "M"
+  },
+  {
+    "name" : "Kangourou",
+    "img" : "https://img.icons8.com/stickers/512/kangaroo.png",
+    "type" : "mammifère",
+    "rarity" : 0.05,
+    "gender" : "M"
+  },
+  {
+    "name" : "Lama",
+    "img" : "https://img.icons8.com/stickers/512/llama.png",
+    "type" : "mammifère",
+    "rarity" : 0.1,
+    "gender" : "M"
+  },
+  {
+    "name" : "Lapin",
+    "img" : "https://img.icons8.com/stickers/512/rabbit.png",
+    "type" : "mammifère",
+    "rarity" : 0.5,
+    "gender" : "M"
+  },
+  {
+    "name" : "Lion",
+    "img" : "https://img.icons8.com/stickers/512/lion.png",
+    "type" : "mammifère",
+    "rarity" : 0.35,
+    "gender" : "M"
+  },
+  {
+    "name" : "Loup",
+    "img" : "https://img.icons8.com/stickers/512/wolf.png",
+    "type" : "mammifère",
+    "rarity" : 0.35,
+    "gender" : "M"
+  },
+  {
+    "name" : "Ours",
+    "img" : "https://img.icons8.com/stickers/512/bear.png",
+    "type" : "mammifère",
+    "rarity" : 0.5,
+    "gender" : "M"
+  },
+  {
+    "name" : "Panda",
+    "img" : "https://img.icons8.com/stickers/512/panda.png",
+    "type" : "mammifère",
+    "rarity" : 0.1,
+    "gender" : "M"
+  },
+  {
+    "name" : "Pingouin",
+    "img" : "https://img.icons8.com/stickers/512/pinguin.png",
+    "type" : "oiseau",
+    "rarity" : 0.05,
+    "gender" : "M"
+  },
+  {
+    "name" : "Poisson-clown",
+    "img" : "https://img.icons8.com/stickers/512/clown-fish.png",
+    "type" : "poisson",
+    "rarity" : 0.5,
+    "gender" : "M"
+  },
+  {
+    "name" : "Rhinocéros",
+    "img" : "https://img.icons8.com/stickers/512/rhinoceros.png",
+    "type" : "mammifère",
+    "rarity" : 0.05,
+    "gender" : "M"
+  },
+  {
+    "name" : "Serpent",
+    "img" : "https://img.icons8.com/stickers/512/snake.png",
+    "type" : "reptile",
+    "rarity" : 0.35,
+    "gender" : "M"
+  },
+  {
+    "name" : "Tortue",
+    "img" : "https://img.icons8.com/stickers/512/turtle.png",
+    "type" : "reptile",
+    "rarity" : 0.5,
+    "gender" : "F"
+  }
+]
